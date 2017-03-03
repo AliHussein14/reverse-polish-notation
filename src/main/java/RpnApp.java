@@ -97,7 +97,7 @@ public class RpnApp {
 	}
 
 	
-	 //Returns true if x is a Double, else false.
+	 //Returns true if x is a Double, anything else false.
 
 	public static boolean isDouble(String x)
 	{
